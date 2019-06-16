@@ -87,7 +87,7 @@ namespace Lista
             // Begin timing.
             stopwatch.Start();
             
-            var fileStream = new FileStream(@"C:\Users\Markel\Desktop\detyrakusitc++\GeneratorWord\WriteLines2.txt", FileMode.Open, FileAccess.Read);
+            var fileStream = new FileStream(@"C:\Users\Grejsi\Desktop\Projektc++\projrktg\GeneratorWord\WriteLines2.txt", FileMode.Open, FileAccess.Read);
             using (var streamReader = new StreamReader(fileStream, Encoding.UTF8))
             {
                 string line;

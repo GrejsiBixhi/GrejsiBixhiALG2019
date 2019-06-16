@@ -1,4 +1,4 @@
-using System;
+1using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.IO;
@@ -235,12 +235,9 @@ namespace ConsoleApp2
         public static List<string> ReadFile()//Lexon skedarin dhe mbush nje liste me gjith fjalet
         {
              List<string> list = new List<string>();
-            //StreamReader sr = new StreamReader();
-            // using (StreamReader sr = new StreamReader(Environment.CurrentDirectory + ""))
-            //@" C: \Users\Markel\Desktop\detyrakusitc++\GeneratorWord\WriteLines2.txt"
-            //  public  static readonly string sr = @"C:\Users\Markel\Desktop\detyrakusitc++\GeneratorWord\WriteLines2.txt";
+        
 
-            var fileStream = new FileStream(@"C:\Users\Markel\Desktop\detyrakusitc++\GeneratorWord\WriteLines2.txt", FileMode.Open, FileAccess.Read);
+            var fileStream = new FileStream(@"C:\Users\Grejsi\Desktop\Projektc++\projrktg\GeneratorWord\WriteLines2.txt", FileMode.Open, FileAccess.Read);
             using (var streamReader = new StreamReader(fileStream, Encoding.UTF8))
             {
                 string line;

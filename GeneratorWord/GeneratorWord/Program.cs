@@ -42,8 +42,8 @@ namespace GeneratorWord
             }
 
             using (System.IO.StreamWriter file =
-           new System.IO.StreamWriter(@" C: \Users\Markel\Desktop\detyrakusitc++\GeneratorWord\WriteLines2.txt"))
-                //C: \Users\Markel\Desktop\detyrakusitc++\GeneratorWord\WriteLines2.txt"
+           new System.IO.StreamWriter(@" C:\Users\Grejsi\Desktop\Projektc++\projrktg\GeneratorWord\WriteLines2.txt"))
+              
                 foreach (string word in listwithRandomStrings)
                 {
 

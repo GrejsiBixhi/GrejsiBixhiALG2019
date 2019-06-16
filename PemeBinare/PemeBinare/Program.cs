@@ -126,7 +126,7 @@ namespace BinaryTree
 
 
             // StreamReader sr = new StreamReader(Environment.CurrentDirectory + "\\word10000.txt.txt");
-            var fileStream = new FileStream(@"C:\Users\Markel\Desktop\detyrakusitc++\GeneratorWord\WriteLines2.txt", FileMode.Open, FileAccess.Read);
+            var fileStream = new FileStream(@"C:\Users\Grejsi\Desktop\Projektc++\projrktg\GeneratorWord\WriteLines2.txt", FileMode.Open, FileAccess.Read);
             using (var sr = new StreamReader(fileStream, Encoding.UTF8))
             {
                 string line = null;
