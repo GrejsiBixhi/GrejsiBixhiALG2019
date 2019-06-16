@@ -1,0 +1,7 @@
+C:\Users\Markel\Desktop\detyrakusitc++\PemeBinare\PemeBinare\bin\Debug\PemeBinare.exe.config
+C:\Users\Markel\Desktop\detyrakusitc++\PemeBinare\PemeBinare\bin\Debug\PemeBinare.exe
+C:\Users\Markel\Desktop\detyrakusitc++\PemeBinare\PemeBinare\bin\Debug\PemeBinare.pdb
+C:\Users\Markel\Desktop\detyrakusitc++\PemeBinare\PemeBinare\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+C:\Users\Markel\Desktop\detyrakusitc++\PemeBinare\PemeBinare\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\Markel\Desktop\detyrakusitc++\PemeBinare\PemeBinare\obj\Debug\PemeBinare.exe
+C:\Users\Markel\Desktop\detyrakusitc++\PemeBinare\PemeBinare\obj\Debug\PemeBinare.pdb
